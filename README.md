@@ -131,3 +131,26 @@ Below is a sample use case diagram showing the main actors and use cases for the
 
 
 ---
+
+
+## Acceptance Criteria
+
+### What is Acceptance Criteria?
+Acceptance Criteria are the specific conditions that a software feature must meet to be accepted by the stakeholders. They act as a checklist that ensures the feature is working as intended, aligns with user needs, and meets quality standards.  
+
+### Importance of Acceptance Criteria
+- **Clarity:** Provides a shared understanding between developers, testers, and stakeholders about when a feature is complete.  
+- **Quality Assurance:** Helps ensure that the final product meets user expectations and business goals.  
+- **Testability:** Serves as the foundation for creating test cases and validating system functionality.  
+- **Scope Control:** Prevents scope creep by clearly defining what is “in” and what is “out” for a feature.  
+
+### Example: Checkout Feature (Booking Management System)
+**Acceptance Criteria:**  
+- Users should be able to review selected property details before checkout.  
+- The system must display the total booking cost, including taxes and fees.  
+- Users should be able to enter and save their payment details securely.  
+- A confirmation page must be displayed after successful payment.  
+- The system should send a booking confirmation email to the user within 2 minutes of checkout completion.  
+
+---
+
