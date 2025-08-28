@@ -75,3 +75,38 @@ Requirement Analysis involves several structured activities to ensure all system
 
 - **Requirement Validation ✅**  
   Reviewing documented requirements with stakeholders to confirm accuracy and completeness, defining acceptance criteria, and ensuring traceability throughout the development lifecycle.
+  
+  
+  
+  ---
+  
+  
+  ## Types of Requirements
+
+In software development, requirements are generally divided into two categories: **Functional** and **Non-functional**. Both are essential for building a system that not only works correctly but also performs effectively and delivers a good user experience.
+
+### Functional Requirements ⚙️
+**Definition:**  
+Functional requirements describe *what* the system should do. They define the specific features, behaviors, and interactions of the system.  
+
+**Examples for Booking Management System:**  
+- **Search Properties:** Users should be able to search for properties based on criteria such as location, price, and availability.  
+- **User Registration:** New users should be able to create an account with personal details and login credentials.  
+- **Property Listings:** The system should display property details such as images, descriptions, and pricing.  
+- **Booking System:** Users should be able to book properties, view booking details, and manage their bookings.  
+- **User Authentication:** Provide secure login and registration with validation to protect user data.  
+
+### Non-functional Requirements 🛡️
+**Definition:**  
+Non-functional requirements describe *how* the system should perform. They address the quality attributes of the system, including performance, security, scalability, usability, and reliability.  
+
+**Examples for Booking Management System:**  
+- **Performance:** The system should load pages within 2 seconds and support at least 1,000 concurrent users.  
+- **Security:** Ensure secure login, encrypt user data, and protect against vulnerabilities such as SQL injection or XSS attacks.  
+- **Scalability:** The system should support horizontal scaling to handle increased traffic and demand.  
+- **Usability:** Provide an intuitive, user-friendly interface that allows easy navigation and booking with minimal steps.  
+- **Reliability:** Guarantee 99.9% uptime and quick recovery in case of system failures.  
+
+
+
+---
